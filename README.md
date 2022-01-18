@@ -25,9 +25,15 @@ git clone https://github.com/0xSV/C-Sharp-RootKit.git
 
 ## Usage
 
-Drag And Drop or git clone the repo into ur server or targets server, run the file, have fun.
+Drag And Drop or git clone the repo into ur server or targets server, run the file via gedit, have fun.
 
-## Dev setup
+## Help if you dont know how to setup
+```
+sudo apt update
+sudo apt install mono-complete
+mcs -out:Rootkit.exe RootKit.cs
+mono RootKit.exe
+```
 ```
 run: sudo apt-get install gedit
 ```
