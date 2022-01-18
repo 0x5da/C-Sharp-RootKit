@@ -37,6 +37,22 @@ mono RootKit.exe
 ```
 run: sudo apt-get install gedit
 ```
+if that doesn't work create a bash file with this code, (edit it obvs)
+```
+if [ ! -f "$1" ]; then
+dmcs_args=$1
+shift
+else
+dmcs_args=""
+fi
+script=$1
+shift
+input_cs="$(mktemp)"
+output_exe="$(mktemp)"
+tail -n +2 $script > $input_cs
+dmcs $dmcs_args $input_cs -out:${output_exe} && mono $output_exe $@                                                                          
+rm -f $input_cs $output_exe
+```
 
 ## Release History
 
