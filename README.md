@@ -43,9 +43,10 @@ no Set Ups Are Needed, Should Be Done Automatically
 * 0.0.1
     * Work in progress
 
-## Meta
+## Social's
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Twitter – (https://twitter.com/SyntaxVoid)
+Discord - (SyntaxVoid#3980)
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
