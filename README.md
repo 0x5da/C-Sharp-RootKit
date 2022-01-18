@@ -29,7 +29,7 @@ Drag And Drop or git clone the repo into ur server or targets server, run the fi
 
 ## Dev setup
 ```
-run: *sudo apt-get install gedit*
+run: sudo apt-get install gedit
 ```
 
 ## Release History
