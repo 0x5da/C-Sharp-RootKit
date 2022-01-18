@@ -14,13 +14,13 @@ One to two paragraph statement about your product and what it does.
 OS X & Linux:
 
 ```sh
-https://github.com/0xSV/C-Sharp-RootKit.git
+git clone https://github.com/0xSV/C-Sharp-RootKit.git
 ```
 
 Windows:
 
 ```sh
-https://github.com/0xSV/C-Sharp-RootKit.git
+git clone https://github.com/0xSV/C-Sharp-RootKit.git
 ```
 
 ## Usage
