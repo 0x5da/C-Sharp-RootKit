@@ -1,11 +1,11 @@
 # RootKit By 0xSV
-> Short blurb about what your product does.
+> Rootkit Written in C-Sharp, revamp/make it better as you wish, thank's.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+A rootkit allows someone to maintain command and control over a computer without the computer user/owner knowing about it. Once a rootkit has been installed, the controller of the rootkit has the ability to remotely execute files and change system configurations on the host machine. A rootkit on an infected computer can also access log files and spy on the legitimate computer owner’s usage.
 
 ![](header.png)
 
