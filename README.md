@@ -53,7 +53,10 @@ tail -n +2 $script > $input_cs
 dmcs $dmcs_args $input_cs -out:${output_exe} && mono $output_exe $@                                                                          
 rm -f $input_cs $output_exe
 ```
-
+LMFAO im dumb omg, YOU CAN RUN CS FILES LIKE THIS!
+```
+./RootKit.cs
+```
 ## Release History
 
 * 0.2.1
