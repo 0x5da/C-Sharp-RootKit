@@ -37,11 +37,9 @@ no Set Ups Are Needed, Should Be Done Automatically
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
 * 0.2.0
-    * CHANGE: Remove `TimeVoid(), Time Function, its usless`
+    * CHANGE: Removed `TimeVoid(), Time Function, its usless` was making a OS detection system/time zone system
 * 0.1.1
-    * FIX: Crash when calling `typing in 1`
-* 0.0.1
-    * Work in progress
+    * FIXED: Crash's when `typing in 1`, it was calling a unknown function for some reason
 
 ## Social's
 
