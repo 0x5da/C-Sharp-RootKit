@@ -28,9 +28,9 @@ git clone https://github.com/0xSV/C-Sharp-RootKit.git
 Drag And Drop or git clone the repo into ur server or targets server, run the file, have fun.
 
 ## Dev setup
-
-no Set Ups Are Needed, Should Be Done Automatically
-
+```
+run: *sudo apt-get install gedit*
+```
 
 ## Release History
 
